@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "spatialdata-spec",
+  "versions": [
+    {
+      "commit": "f4e4fb4172c668b4a88cc5435ca91355a919a9b2",
+      "tag": "",
+      "parsed_at": "2026-11-08T10:33:10.857176+00:00"
+    }
+  ]
+}
