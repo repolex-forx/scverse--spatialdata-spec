@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "scverse",
+  "repo": "spatialdata-spec",
+  "versions": [
+    {
+      "commit": "f4e4fb4172c668b4a88cc5435ca91355a919a9b2",
+      "parsed_at": "2026-11-08T10:31:10.181033+00:00",
+      "filetree": "filetree/f4e4fb4172c668b4a88cc5435ca91355a919a9b2.nq.gz",
+      "blobs": [
+        "blob/43afdcb203ba3a31a556785b4762ec6f319778dd.nq.gz",
+        "blob/ec396d0e2dc9f96b942c968e2c99d9f8711de444.nq.gz",
+        "blob/288185516d1202f5506cbdb3b864a10597d0afc4.nq.gz",
+        "blob/275aa4b62a64d717b9b2aa73b3de3571ba98d485.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
